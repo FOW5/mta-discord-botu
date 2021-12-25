@@ -1,0 +1,17 @@
+{
+  "name": "siparis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "rvs & minicode",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+}
